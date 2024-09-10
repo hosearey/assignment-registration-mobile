@@ -2,12 +2,12 @@
 
 Assignment Registration Mobile is a mobile application project designed to provide a user-friendly registration screen for users. The application leverages popular Flutter packages to enhance its functionality and user experience.
 
+# Viedo Registration Mobile
 [Watch this video](https://www.veed.io/view/19f0a3f2-5fde-486d-b5bd-ace5343c9616?panel=share)
 
 
 
-
-Features
+# Features
 
 Provider State Management: Manages the state of the registration screen efficiently.
 Internationalization: Supports multiple languages and formats using the intl package.
@@ -16,7 +16,8 @@ Animation: Provides engaging animations with the lottie package.
 Location Data: Offers country, state, and city selection using the country_state_city_pro package.
 
 
-Installation
+# Installation
+
 To get started with the Assignment Registration Mobile project, follow these steps:
 
 Clone the Repository:
@@ -37,7 +38,8 @@ Run the Application:
 You can run the application on an emulator or a physical device:
 flutter run
 
-Acknowledgments
+# Acknowledments
+
 Provider: Provider Documentation
 intl: intl Documentation
 dio: dio Documentation
