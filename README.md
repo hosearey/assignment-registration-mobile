@@ -1,6 +1,11 @@
 # Assignment Registration Mobile
-s
+
 Assignment Registration Mobile is a mobile application project designed to provide a user-friendly registration screen for users. The application leverages popular Flutter packages to enhance its functionality and user experience.
+
+[Watch this video](https://www.veed.io/view/19f0a3f2-5fde-486d-b5bd-ace5343c9616?panel=share)
+
+
+
 
 Features
 
